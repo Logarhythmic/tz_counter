@@ -1,0 +1,782 @@
+[
+  {
+    "act": 1,
+    "area_name": "Rogue Encampment",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 1,
+    "area_name": "Blood Moor",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 1,
+    "area_name": "Den of Evil",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 1,
+    "area_name": "Cold Plains",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 1,
+    "area_name": "Cave Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Cave Level 2",
+    "min_count": 2,
+    "max_count": 3
+  },
+  {
+    "act": 1,
+    "area_name": "Burial Grounds",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 1,
+    "area_name": "Crypt",
+    "min_count": 4,
+    "max_count": 5
+  },
+  {
+    "act": 1,
+    "area_name": "Mausoleum",
+    "min_count": 4,
+    "max_count": 5
+  },
+  {
+    "act": 1,
+    "area_name": "Stony Field",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 1,
+    "area_name": "Tristram",
+    "min_count": 5,
+    "max_count": 6
+  },
+  {
+    "act": 1,
+    "area_name": "Underground Passage 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Underground Passage 2",
+    "min_count": 2,
+    "max_count": 3
+  },
+  {
+    "act": 1,
+    "area_name": "Dark Wood",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 1,
+    "area_name": "Black Marsh",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 1,
+    "area_name": "Hole Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Hole Level 2",
+    "min_count": 2,
+    "max_count": 3
+  },
+  {
+    "act": 1,
+    "area_name": "Forgotten Tower",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 1,
+    "area_name": "Tower Cellar Level 1",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 1,
+    "area_name": "Tower Cellar Level 2",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 1,
+    "area_name": "Tower Cellar Level 3",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 1,
+    "area_name": "Tower Cellar Level 4",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 1,
+    "area_name": "Tower Cellar Level 5",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 1,
+    "area_name": "Tamoe Highland",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 1,
+    "area_name": "Pit Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Pit Level 2",
+    "min_count": 2,
+    "max_count": 3
+  },
+  {
+    "act": 1,
+    "area_name": "Monastery Gate",
+    "min_count": 1,
+    "max_count": 2
+  },
+  {
+    "act": 1,
+    "area_name": "Outer Cloister",
+    "min_count": 2,
+    "max_count": 3
+  },
+  {
+    "act": 1,
+    "area_name": "Barracks",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Jail Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Jail Level 2",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Jail Level 3",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Inner Cloister",
+    "min_count": 2,
+    "max_count": 2
+  },
+  {
+    "act": 1,
+    "area_name": "Cathedral",
+    "min_count": 3,
+    "max_count": 3
+  },
+  {
+    "act": 1,
+    "area_name": "Catacombs Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Catacombs Level 2",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Catacombs Level 3",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Catacombs Level 4",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 1,
+    "area_name": "Moo Moo Farm",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Lut Gholein",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 2,
+    "area_name": "Sewers Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Sewers Level 2",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Sewers Level 3",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Rocky Waste",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 2,
+    "area_name": "Stony Tomb Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Stony Tomb Level 2",
+    "min_count": 1,
+    "max_count": 2
+  },
+  {
+    "act": 2,
+    "area_name": "Dry Hills",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 2,
+    "area_name": "Halls of the Dead Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Halls of the Dead Level 2",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Halls of the Dead Level 3",
+    "min_count": 1,
+    "max_count": 2
+  },
+  {
+    "act": 2,
+    "area_name": "Far Oasis",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 2,
+    "area_name": "Maggot Lair Level 1",
+    "min_count": 5,
+    "max_count": 6
+  },
+  {
+    "act": 2,
+    "area_name": "Maggot Lair Level 2",
+    "min_count": 5,
+    "max_count": 6
+  },
+  {
+    "act": 2,
+    "area_name": "Maggot Lair Level 3",
+    "min_count": 4,
+    "max_count": 5
+  },
+  {
+    "act": 2,
+    "area_name": "Lost City",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 2,
+    "area_name": "Ancient Tunnels",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Valley of Snakes",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 2,
+    "area_name": "Claw Viper Temple 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 2,
+    "area_name": "Claw Viper Temple 2",
+    "min_count": 1,
+    "max_count": 2
+  },
+  {
+    "act": 2,
+    "area_name": "Harem Level 1",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 2,
+    "area_name": "Harem Level 2",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 2,
+    "area_name": "Palace Cellar Level 1",
+    "min_count": 5,
+    "max_count": 7
+  },
+  {
+    "act": 2,
+    "area_name": "Palace Cellar Level 2",
+    "min_count": 5,
+    "max_count": 7
+  },
+  {
+    "act": 2,
+    "area_name": "Palace Cellar Level 3",
+    "min_count": 5,
+    "max_count": 7
+  },
+  {
+    "act": 2,
+    "area_name": "Arcane Sanctuary",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 2,
+    "area_name": "Canyon of the Magi",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 2,
+    "area_name": "Tal Rasha's Tomb",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 2,
+    "area_name": "Tal Rasha's Chamber",
+    "min_count": 0,
+    "max_count": 2
+  },
+  {
+    "act": 3,
+    "area_name": "Kurast Docks",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 3,
+    "area_name": "Spider Forest",
+    "min_count": 10,
+    "max_count": 15
+  },
+  {
+    "act": 3,
+    "area_name": "Arachnid Lair",
+    "min_count": 4,
+    "max_count": 5
+  },
+  {
+    "act": 3,
+    "area_name": "Spider Cavern",
+    "min_count": 4,
+    "max_count": 5
+  },
+  {
+    "act": 3,
+    "area_name": "Great Marsh",
+    "min_count": 10,
+    "max_count": 15
+  },
+  {
+    "act": 3,
+    "area_name": "Flayer Jungle",
+    "min_count": 10,
+    "max_count": 15
+  },
+  {
+    "act": 3,
+    "area_name": "Swampy Pit Level 1",
+    "min_count": 5,
+    "max_count": 6
+  },
+  {
+    "act": 3,
+    "area_name": "Swampy Pit Level 2",
+    "min_count": 5,
+    "max_count": 5
+  },
+  {
+    "act": 3,
+    "area_name": "Swampy Pit Level 3",
+    "min_count": 2,
+    "max_count": 3
+  },
+  {
+    "act": 3,
+    "area_name": "Flayer Dungeon Level 1",
+    "min_count": 5,
+    "max_count": 6
+  },
+  {
+    "act": 3,
+    "area_name": "Flayer Dungeon Level 2",
+    "min_count": 5,
+    "max_count": 5
+  },
+  {
+    "act": 3,
+    "area_name": "Flayer Dungeon Level 3",
+    "min_count": 2,
+    "max_count": 3
+  },
+  {
+    "act": 3,
+    "area_name": "Lower Kurast",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 3,
+    "area_name": "Kurast Bazaar",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 3,
+    "area_name": "Sewers Level 1",
+    "min_count": 6,
+    "max_count": 7
+  },
+  {
+    "act": 3,
+    "area_name": "Sewers Level 2",
+    "min_count": 6,
+    "max_count": 7
+  },
+  {
+    "act": 3,
+    "area_name": "Ruined Temple",
+    "min_count": 2,
+    "max_count": 2
+  },
+  {
+    "act": 3,
+    "area_name": "Disused Fane",
+    "min_count": 2,
+    "max_count": 2
+  },
+  {
+    "act": 3,
+    "area_name": "Upper Kurast",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 3,
+    "area_name": "Forgotten Reliquary",
+    "min_count": 2,
+    "max_count": 2
+  },
+  {
+    "act": 3,
+    "area_name": "Forgotten Temple",
+    "min_count": 2,
+    "max_count": 2
+  },
+  {
+    "act": 3,
+    "area_name": "Kurast Causeway",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 3,
+    "area_name": "Ruined Fane",
+    "min_count": 2,
+    "max_count": 2
+  },
+  {
+    "act": 3,
+    "area_name": "Disused Reliquary",
+    "min_count": 2,
+    "max_count": 2
+  },
+  {
+    "act": 3,
+    "area_name": "Travincal",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 3,
+    "area_name": "Durance of Hate Level 1",
+    "min_count": 5,
+    "max_count": 7
+  },
+  {
+    "act": 3,
+    "area_name": "Durance of Hate Level 2",
+    "min_count": 5,
+    "max_count": 7
+  },
+  {
+    "act": 3,
+    "area_name": "Durance of Hate Level 3",
+    "min_count": 5,
+    "max_count": 7
+  },
+  {
+    "act": 4,
+    "area_name": "Pandemonium Fortress",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 4,
+    "area_name": "Outer Steppes",
+    "min_count": 8,
+    "max_count": 10
+  },
+  {
+    "act": 4,
+    "area_name": "Plains of Despair",
+    "min_count": 8,
+    "max_count": 10
+  },
+  {
+    "act": 4,
+    "area_name": "City of the Damned",
+    "min_count": 8,
+    "max_count": 10
+  },
+  {
+    "act": 4,
+    "area_name": "River of Flame",
+    "min_count": 6,
+    "max_count": 7
+  },
+  {
+    "act": 4,
+    "area_name": "Chaos Sanctuary",
+    "min_count": 6,
+    "max_count": 7
+  },
+  {
+    "act": 5,
+    "area_name": "Harrogath",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 5,
+    "area_name": "Bloody Foothills",
+    "min_count": 4,
+    "max_count": 6
+  },
+  {
+    "act": 5,
+    "area_name": "Frigid Highlands",
+    "min_count": 9,
+    "max_count": 11
+  },
+  {
+    "act": 5,
+    "area_name": "Abaddon",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 5,
+    "area_name": "Arreat Plateau",
+    "min_count": 9,
+    "max_count": 11
+  },
+  {
+    "act": 5,
+    "area_name": "Pit of Acheron",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 5,
+    "area_name": "Crystalline Passage",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 5,
+    "area_name": "Frozen River",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 5,
+    "area_name": "Glacial Trail",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 5,
+    "area_name": "Drifter Cavern",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 5,
+    "area_name": "Frozen Tundra",
+    "min_count": 9,
+    "max_count": 11
+  },
+  {
+    "act": 5,
+    "area_name": "Infernal Pit",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 5,
+    "area_name": "Ancients' Way",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 5,
+    "area_name": "Icy Cellar",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 5,
+    "area_name": "Arreat Summit",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 5,
+    "area_name": "Nihlathak's Temple",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 5,
+    "area_name": "Halls of Anguish",
+    "min_count": 6,
+    "max_count": 7
+  },
+  {
+    "act": 5,
+    "area_name": "Halls of Pain",
+    "min_count": 6,
+    "max_count": 7
+  },
+  {
+    "act": 5,
+    "area_name": "Halls of Vaught",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 5,
+    "area_name": "Worldstone Keep Level 1",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 5,
+    "area_name": "Worldstone Keep Level 2",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 5,
+    "area_name": "Worldstone Keep Level 3",
+    "min_count": 6,
+    "max_count": 8
+  },
+  {
+    "act": 5,
+    "area_name": "Throne of Destruction",
+    "min_count": 4,
+    "max_count": 5
+  },
+  {
+    "act": 5,
+    "area_name": "Worldstone Chamber",
+    "min_count": null,
+    "max_count": null
+  },
+  {
+    "act": 5,
+    "area_name": "Matron's Den",
+    "min_count": 4,
+    "max_count": 5
+  },
+  {
+    "act": 5,
+    "area_name": "Forgotten Sands",
+    "min_count": 7,
+    "max_count": 9
+  },
+  {
+    "act": 5,
+    "area_name": "Furnace of Pain",
+    "min_count": 3,
+    "max_count": 4
+  },
+  {
+    "act": 5,
+    "area_name": "Tristram",
+    "min_count": 3,
+    "max_count": 3
+  }
+]

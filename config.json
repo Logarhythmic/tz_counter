@@ -1,0 +1,21 @@
+{
+  "ocr_interval_ms": 900,
+  "stale_grace_ms": 3500,
+  "confidence_threshold": 0.55,
+  "debug_print_interval_seconds": 5,
+  "terminal_print_interval_seconds": 5,
+  "print_area_to_console": true,
+  "save_debug_artifacts": false,
+  "auto_follow_current_area": true,
+  "capture_mode": "monitor-relative",
+  "monitor_index": 2,
+  "capture_left": 3200,
+  "capture_top": 35,
+  "capture_width": 625,
+  "capture_height": 447,
+  "table_row_height": 64,
+  "hotkey_inc": "ctrl+num 5",
+  "hotkey_dec": "ctrl+num 4",
+  "hotkey_reset_current": "ctrl+num 8",
+  "hotkey_debounce_ms": 250
+}
