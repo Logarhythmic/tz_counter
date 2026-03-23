@@ -2,6 +2,8 @@
 
 Desktop tracker for Diablo II area progress using **on-screen OCR only**.
 
+This counter doesn't not directly interact with the game at all. It takes a screenshot and reads the map info from that. If your map is not open, **it will not work**. If the portion of your screen where it expects to find map info is different than whats in the config, **it will not work**. Use the print debug artifacts button to see what the counter sees and adjust your config file accordingly.
+
 ## What this app does
 
 - Polls a configurable top-right screen region for area text.
