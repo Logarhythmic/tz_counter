@@ -14,8 +14,8 @@
   "capture_width": 625,
   "capture_height": 447,
   "table_row_height": 64,
-  "hotkey_inc": "ctrl+num 5",
-  "hotkey_dec": "ctrl+num 4",
-  "hotkey_reset_current": "ctrl+num 8",
+  "hotkey_inc": "num 5",
+  "hotkey_dec": "num 4",
+  "hotkey_reset_current": "num 8",
   "hotkey_debounce_ms": 250
 }
